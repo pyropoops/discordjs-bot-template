@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "Saif Suleman",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.0.2"
+  }
 }
